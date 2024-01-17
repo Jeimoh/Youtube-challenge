@@ -1,0 +1,10 @@
+#playing{
+    width: 70%;
+    height: 350px;
+    margin-left: 10px;
+    border-radius: 25px;
+    background-color: rgb(162, 26, 204);
+}
+.navigation{
+    display: none;
+}
